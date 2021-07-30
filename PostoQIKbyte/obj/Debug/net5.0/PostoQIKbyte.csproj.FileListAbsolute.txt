@@ -1,0 +1,16 @@
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\PostoQIKbyte.exe
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\PostoQIKbyte.deps.json
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\PostoQIKbyte.runtimeconfig.json
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\PostoQIKbyte.runtimeconfig.dev.json
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\PostoQIKbyte.dll
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\ref\PostoQIKbyte.dll
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\bin\Debug\net5.0\PostoQIKbyte.pdb
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.GeneratedMSBuildEditorConfig.editorconfig
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.AssemblyInfoInputs.cache
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.AssemblyInfo.cs
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.csproj.CoreCompileInputs.cache
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.dll
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\ref\PostoQIKbyte.dll
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.pdb
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.genruntimeconfig.cache
+D:\aprendendo_csharp\PostoQIKbyte\PostoQIKbyte\obj\Debug\net5.0\PostoQIKbyte.csproj.AssemblyReference.cache
